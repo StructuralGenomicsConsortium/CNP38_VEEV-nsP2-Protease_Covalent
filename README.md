@@ -26,4 +26,5 @@ The licence for the content of this project is, unless otherwise stated, and as 
 
 This project is part of the SGC's Open Chemistry Networks initiative.
 
-image
+![image](https://github.com/StructuralGenomicsConsortium/CNP38_VEEV-nsP2-Protease_Covalent/assets/162926266/b37a6077-ee03-4a15-8eb7-cb95a1f94d73)
+
