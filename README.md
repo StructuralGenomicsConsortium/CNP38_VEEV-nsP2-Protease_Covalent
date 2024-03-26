@@ -1,0 +1,1 @@
+# CNP38_VEEV-nsP2-Protease_Covalent
